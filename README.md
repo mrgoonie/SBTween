@@ -42,4 +42,35 @@ func onTweenUpdate(progress:Float){
 }
 ```
 
+*Now this is the list of available properties which you can tween with this framework:*
+
+```
+alpha
+x
+y
+width
+height
+scaleX
+scaleY
+rotation
+```
+
+*Then the list of available easing types:*
+
+```
+Linear (no easing animation)
+Back
+Quint
+Elastic
+Sine 
+Bounce
+Expo 
+Circ 
+Cubic 
+Quart 
+Quad
+```
+
 That's it for now! 
+
+Happy coding everyone!
